@@ -4,7 +4,6 @@
 
 
 - 👋 Hello, my name is Daniel
-- 🌱 I am learning how to use use NextJS and Tauri
 - 💻 GNU/Linux user
 
 - 📫 How to reach me: BardMan#0001 
