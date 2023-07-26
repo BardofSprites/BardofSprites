@@ -1,8 +1,5 @@
 <!--- you can add an \<a\> around this to make it dissappear --->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=BardofSprites&show_icons=true&hide_border=true&icon_color=33a6b8&title_color=184f57"></img>
-
-
 - 👋 Hello, my name is Daniel
 - 💻 GNU/Linux user
 
