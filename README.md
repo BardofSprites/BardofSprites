@@ -1,10 +1,21 @@
 <!--- you can add an \<a\> around this to make it dissappear --->
 
 - 👋 Hello, my name is Daniel
-- 💻 GNU/Linux user
+- 💻 I like computers
+- 📫 How to reach me: .bardman (Discord), @bardman:matrix.org
 
-- 📫 How to reach me: BardMan#0001 
+Interests
+- Currently learning [Clojure](https://clojure.org/) to make a contact merging program
+- Self hosting
+- Open source software
 
+Languages I Know:
+
+[![Languages](https://skillicons.dev/icons?i=python,java,html,css)](https://skillicons.dev)
+
+Tools I Use:
+
+[![Tools](https://skillicons.dev/icons?i=emacs,bash,linux,git,figma,vim,neovim)](https://skillicons.dev)
 
 <!---
 BardofSprites/BardofSprites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
