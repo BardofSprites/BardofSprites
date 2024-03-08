@@ -5,7 +5,7 @@
 - 📫 How to reach me: .bardman (Discord), @bardman:matrix.org
 
 Interests
-- Currently learning [Clojure](https://clojure.org/) to make a contact merging program
+- Currently working on my blog
 - Self hosting
 - Open source software
 
