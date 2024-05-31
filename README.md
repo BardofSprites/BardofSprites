@@ -9,14 +9,6 @@ Interests
 - Self hosting
 - Open source software
 
-Languages I Know:
-
-[![Languages](https://skillicons.dev/icons?i=python,java,html,css)](https://skillicons.dev)
-
-Tools I Use:
-
-[![Tools](https://skillicons.dev/icons?i=emacs,bash,linux,git,figma,vim,neovim)](https://skillicons.dev)
-
 <!---
 BardofSprites/BardofSprites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
